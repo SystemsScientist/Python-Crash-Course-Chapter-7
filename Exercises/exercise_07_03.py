@@ -6,6 +6,7 @@
 number = input("Enter a number, and I'll tell you if it's a multiple of 10: ")
 number = int(number)
 
+# conditional block accounts for the number zero
 if number % 10 == 0:
     if number == 0:
         print("The number " + str(number) + " is not a multiple of 10.")
