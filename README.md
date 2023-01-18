@@ -3,7 +3,7 @@
 This repository contains the Examples, Exercises, and Solutions for Chapter 7 of Python Crash Course by Eric Matthes, which covers
 user input and while loops.
 
-See the following link for this textbook: <a href="https://www.amazon.com/Python-Crash-Course-Eric-Matthes-dp-1718502702/dp/1718502702/ref=dp_ob_title_bk" target="_blank" title="Python Crash Course">Python Crash Course: A Hands-On, Project-Based Introduction to Programming</a>
+See the following link for this textbook: <a href="https://www.amazon.com/Python-Crash-Course-Hands-Project-Based/dp/1593276036?ref_=ast_sto_dp" target="_blank" title="Python Crash Course">Python Crash Course</a>
 
 In this repository, I incorporated Vim (text editor) along with Git and GitHub into my workflow. I also used the Fedora 37 system in a VirtualBox
 environment to create, use, and manage directories and files as I worked through the chapter.
